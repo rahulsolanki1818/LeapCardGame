@@ -1,7 +1,7 @@
 import React from 'react';
 import AppNavigator from './Router/AppNavigator';
 
-const App: React.FC = props => (
+const App: React.FC = () => (
   <AppNavigator />
 );
 
